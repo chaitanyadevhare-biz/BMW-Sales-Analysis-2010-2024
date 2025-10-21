@@ -47,5 +47,3 @@ _(Include a preview image or GIF of the dashboard here)_
 *(Alternatively link to the live dashboard if hosted in Power BI service.)*
 
 ---
-
-## 📁 Repository Structure  
