@@ -1,2 +1,2 @@
 # BMW-Sales-Analysis-2010-2024
-A data analysis and visualization project showcasing insights from BMW sales data (2010–2024) using Power BI and Excel.
+Comprehensive data analysis and dashboard project analyzing BMW sales trends from 2010 to 2024. Built with Power BI and Excel to visualize key KPIs, market performance, and data-driven insights.
