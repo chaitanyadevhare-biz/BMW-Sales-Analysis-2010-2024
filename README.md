@@ -42,7 +42,7 @@ Automotive manufacturers and market analysts struggle to visualise long-term tre
 ---
 
 ## 📸 Screenshots / Demo  
-_(A preview image or GIF of the dashboard here)_  
+_(A preview image of the dashboard here)_  
 ![Dashboard Preview](https://github.com/chaitanyadevhare-biz/BMW-Sales-Analysis-2010-2024/blob/main/Dashboard%20Illustration.png)  
 
 ---
